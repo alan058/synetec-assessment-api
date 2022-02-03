@@ -1,0 +1,13 @@
+{
+  "amount": 916,
+  "employee": {
+    "selectedEmployeeId": 1,
+    "fullname": "John Smith",
+    "jobTitle": "Accountant (Senior)",
+    "salary": 60000,
+    "department": {
+      "title": "Finance",
+      "description": "The finance department for the company"
+    }
+  }
+}

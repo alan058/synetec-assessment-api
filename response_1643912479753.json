@@ -1,0 +1,122 @@
+[
+  {
+    "selectedEmployeeId": 1,
+    "fullname": "John Smith",
+    "jobTitle": "Accountant (Senior)",
+    "salary": 60000,
+    "department": {
+      "title": "Finance",
+      "description": "The finance department for the company"
+    }
+  },
+  {
+    "selectedEmployeeId": 2,
+    "fullname": "Janet Jones",
+    "jobTitle": "HR Director",
+    "salary": 90000,
+    "department": {
+      "title": "Human Resources",
+      "description": "The Human Resources department for the company"
+    }
+  },
+  {
+    "selectedEmployeeId": 3,
+    "fullname": "Robert Rinser",
+    "jobTitle": "IT Director",
+    "salary": 95000,
+    "department": {
+      "title": "IT",
+      "description": "The IT support department for the company"
+    }
+  },
+  {
+    "selectedEmployeeId": 4,
+    "fullname": "Jilly Thornton",
+    "jobTitle": "Marketing Manager (Senior)",
+    "salary": 55000,
+    "department": {
+      "title": "Marketing",
+      "description": "The Marketing department for the company"
+    }
+  },
+  {
+    "selectedEmployeeId": 5,
+    "fullname": "Gemma Jones",
+    "jobTitle": "Marketing Manager (Junior)",
+    "salary": 45000,
+    "department": {
+      "title": "Marketing",
+      "description": "The Marketing department for the company"
+    }
+  },
+  {
+    "selectedEmployeeId": 6,
+    "fullname": "Peter Bateman",
+    "jobTitle": "IT Support Engineer",
+    "salary": 35000,
+    "department": {
+      "title": "IT",
+      "description": "The IT support department for the company"
+    }
+  },
+  {
+    "selectedEmployeeId": 7,
+    "fullname": "Azimir Smirkov",
+    "jobTitle": "Creative Director",
+    "salary": 62500,
+    "department": {
+      "title": "Marketing",
+      "description": "The Marketing department for the company"
+    }
+  },
+  {
+    "selectedEmployeeId": 8,
+    "fullname": "Penelope Scunthorpe",
+    "jobTitle": "Creative Assistant",
+    "salary": 38750,
+    "department": {
+      "title": "Marketing",
+      "description": "The Marketing department for the company"
+    }
+  },
+  {
+    "selectedEmployeeId": 9,
+    "fullname": "Amil Kahn",
+    "jobTitle": "IT Support Engineer",
+    "salary": 36000,
+    "department": {
+      "title": "IT",
+      "description": "The IT support department for the company"
+    }
+  },
+  {
+    "selectedEmployeeId": 10,
+    "fullname": "Joe Masters",
+    "jobTitle": "IT Support Engineer",
+    "salary": 36500,
+    "department": {
+      "title": "IT",
+      "description": "The IT support department for the company"
+    }
+  },
+  {
+    "selectedEmployeeId": 11,
+    "fullname": "Paul Azgul",
+    "jobTitle": "HR Manager",
+    "salary": 53000,
+    "department": {
+      "title": "Human Resources",
+      "description": "The Human Resources department for the company"
+    }
+  },
+  {
+    "selectedEmployeeId": 12,
+    "fullname": "Jennifer Smith",
+    "jobTitle": "Accountant (Junior)",
+    "salary": 48000,
+    "department": {
+      "title": "Finance",
+      "description": "The finance department for the company"
+    }
+  }
+]
