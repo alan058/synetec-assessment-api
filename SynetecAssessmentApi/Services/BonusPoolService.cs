@@ -34,6 +34,7 @@ namespace SynetecAssessmentApi.Services
                 result.Add(
                     new EmployeeDto
                     {
+                        SelectedEmployeeId=employee.Id,
                         Fullname = employee.Fullname,
                         JobTitle = employee.JobTitle,
                         Salary = employee.Salary,
@@ -65,15 +66,17 @@ namespace SynetecAssessmentApi.Services
             return new BonusPoolCalculatorResultDto
             {
                 Employee = new EmployeeDto
-                {
+                {  //assigned the selectedEmployee from the Model added under Employee and assigned to id from Employee List
+                    SelectedEmployeeId = employee.Id,
                     Fullname = employee.Fullname,
                     JobTitle = employee.JobTitle,
-                    Salary = employee.Salary,
-                    Department = new DepartmentDto
+                    Salary = employee.Salary,                   
+                    Department = new DepartmentDto                    
                     {
                         Title = employee.Department.Title,
                         Description = employee.Department.Description
                     }
+                   
                 },
 
                 Amount = bonusAllocation
