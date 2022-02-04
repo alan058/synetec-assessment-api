@@ -34,7 +34,6 @@ namespace SynetecAssessmentApi.Services
                 result.Add(
                     new EmployeeDto
                     {
-                        //assigned SelectedEmployeeId to Employee.id from Employee List
                         SelectedEmployeeId=employee.Id,
                         Fullname = employee.Fullname,
                         JobTitle = employee.JobTitle,
