@@ -1,6 +1,6 @@
 [
   {
-    "selectedEmployeeId": 1,
+    "employeeId": 1,
     "fullname": "John Smith",
     "jobTitle": "Accountant (Senior)",
     "salary": 60000,
@@ -10,7 +10,7 @@
     }
   },
   {
-    "selectedEmployeeId": 2,
+    "employeeId": 2,
     "fullname": "Janet Jones",
     "jobTitle": "HR Director",
     "salary": 90000,
@@ -20,7 +20,7 @@
     }
   },
   {
-    "selectedEmployeeId": 3,
+    "employeeId": 3,
     "fullname": "Robert Rinser",
     "jobTitle": "IT Director",
     "salary": 95000,
@@ -30,7 +30,7 @@
     }
   },
   {
-    "selectedEmployeeId": 4,
+    "employeeId": 4,
     "fullname": "Jilly Thornton",
     "jobTitle": "Marketing Manager (Senior)",
     "salary": 55000,
@@ -40,7 +40,7 @@
     }
   },
   {
-    "selectedEmployeeId": 5,
+    "employeeId": 5,
     "fullname": "Gemma Jones",
     "jobTitle": "Marketing Manager (Junior)",
     "salary": 45000,
@@ -50,7 +50,7 @@
     }
   },
   {
-    "selectedEmployeeId": 6,
+    "employeeId": 6,
     "fullname": "Peter Bateman",
     "jobTitle": "IT Support Engineer",
     "salary": 35000,
@@ -60,7 +60,7 @@
     }
   },
   {
-    "selectedEmployeeId": 7,
+    "employeeId": 7,
     "fullname": "Azimir Smirkov",
     "jobTitle": "Creative Director",
     "salary": 62500,
@@ -70,7 +70,7 @@
     }
   },
   {
-    "selectedEmployeeId": 8,
+    "employeeId": 8,
     "fullname": "Penelope Scunthorpe",
     "jobTitle": "Creative Assistant",
     "salary": 38750,
@@ -80,7 +80,7 @@
     }
   },
   {
-    "selectedEmployeeId": 9,
+    "employeeId": 9,
     "fullname": "Amil Kahn",
     "jobTitle": "IT Support Engineer",
     "salary": 36000,
@@ -90,7 +90,7 @@
     }
   },
   {
-    "selectedEmployeeId": 10,
+    "employeeId": 10,
     "fullname": "Joe Masters",
     "jobTitle": "IT Support Engineer",
     "salary": 36500,
@@ -100,7 +100,7 @@
     }
   },
   {
-    "selectedEmployeeId": 11,
+    "employeeId": 11,
     "fullname": "Paul Azgul",
     "jobTitle": "HR Manager",
     "salary": 53000,
@@ -110,7 +110,7 @@
     }
   },
   {
-    "selectedEmployeeId": 12,
+    "employeeId": 12,
     "fullname": "Jennifer Smith",
     "jobTitle": "Accountant (Junior)",
     "salary": 48000,
